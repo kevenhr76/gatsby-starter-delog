@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /video-post
+path: /video-post-web
 date: 2020-02-20T15:05:49.332Z
 title: Post with Youtube Video embed
 thumbnail: /assets/image-1.jpg
